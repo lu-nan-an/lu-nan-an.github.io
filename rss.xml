@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>lunanan 的个人博客</title>
+    <link>https://lu-nan-an.github.io</link>
+    <atom:link href="https://lu-nan-an.github.io/rss.xml" rel="self" type="application/rss+xml"/>
+    <description>记录精彩的程序人生</description>
+    <generator>Solo, v4.3.1, https://b3log.org/solo</generator>
+    <lastBuildDate>Sun, 15 Nov 2020 21:41:53 +0800</lastBuildDate>
+    <language>zh-cn</language>
+    <item>
+      <title>关于我的网名lunanan</title>
+      <link>https://lu-nan-an.github.io/articles/2020/11/15/1605434659902.html</link>
+      <description/>
+      <author>lunanan</author>
+      <guid>https://lu-nan-an.github.io/articles/2020/11/15/1605434659902.html</guid>
+      <category>待分类</category>
+      <pubDate>Sun, 15 Nov 2020 19:58:20 +0800</pubDate>
+    </item>
+  </channel>
+</rss>
